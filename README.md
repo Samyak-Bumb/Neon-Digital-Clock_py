@@ -1,5 +1,6 @@
-# Neon-Digital-Clock_py
+# Neon-Digital-Clock
 
+Code:
 ```py
 # Created By Samyak Bumb
 
@@ -21,4 +22,9 @@ Label.pack(anchor='center')
 
 time()
 mainloop()
+```
+
+Requirement:
+```
+pip install tkinter
 ```
